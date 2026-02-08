@@ -27,4 +27,9 @@ public class WorkflowClientException extends WorkflowException {
     }
 
     public WorkflowClientException(String message, Throwable e) { super(message, e); }
+
+    public WorkflowClientException(String errorCode, String description) {
+
+        super(description, errorCode);
+    }
 }
