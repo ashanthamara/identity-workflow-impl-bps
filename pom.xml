@@ -39,7 +39,7 @@
         <url>https://github.com/wso2-extensions/identity-workflow-impl-bps.git</url>
         <developerConnection>scm:git:https://github.com/wso2-extensions/identity-workflow-impl-bps.git</developerConnection>
         <connection>scm:git:https://github.com/wso2-extensions/identity-workflow-impl-bps.git</connection>
-        <tag>v5.5.20</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <dependencyManagement>
