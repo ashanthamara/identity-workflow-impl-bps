@@ -54,7 +54,7 @@ name = "internal_humantask_view"
 - `wso2is-7.0.0`
   - Use the **legacy Management Console** for user management operations.
 - `wso2is-7.1.0`
-   - To use the **new Console** for user management operations with active workflow configurations, update the product to **level 53** (`wso2is-7.1.0.53`) or later.
+   - To use the **new Console** for user management operations with active workflow configurations, update the product to **level 54** (`wso2is-7.1.0.54`) or later.
    - The new Console supports only the following user management operations with workflows:
       - `Add user`
       - `Update User Claims`
